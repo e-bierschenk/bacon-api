@@ -25,30 +25,6 @@
     {
       "userId": 1,
       "isWin": true,
-      "score": 2,
-      "timeElapsed": 3297,
-      "breadcrumb": "Natalie Portman;Brothers;Tobey Maguire;Beyond All Boundaries",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "isWin": true,
-      "score": 2,
-      "timeElapsed": 1638,
-      "breadcrumb": "Natalie Portman;I'm Still Here;Sean Penn;Mystic River",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "isWin": true,
-      "score": 2,
-      "timeElapsed": 2839,
-      "breadcrumb": "Natalie Portman;Léon: The Professional;Gary Oldman;Criminal Law",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "isWin": true,
       "score": 4,
       "timeElapsed": 2277,
       "breadcrumb": "Steve Buscemi;The Big Lebowski;Jeff Bridges;Kingsman: The Golden Circle;Elton John;Tommy;Jack Nicholson;A Few Good Men",
